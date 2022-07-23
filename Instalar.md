@@ -2,13 +2,6 @@
 
 Panda-Bot Bot Para Whatsapp by Leo
 
-<p align="center">
-<img src="https://github.com/CrearBot/Panda-BotV3/blob/main/temples/ezgif-4-5e4fce2c4bbe.gif" alt="GIF" width="500" height="281"/>
-</p>
-<p align="center">
-<a href="#"><img title="Panda-Bot" src="https://img.shields.io/badge/pandabot -purple?colorA=%cc33ff&colorB=%cc33ff&style=for-the-badge"></a>
-</p>
-
 </p>
 
 <p align="center">
