@@ -5,7 +5,7 @@ Panda-Bot Bot Para Whatsapp by Leo
 </p>
 
 <p align="center">
-<a href="https://github.com/CrearBot"><img title="Creador" src="https://img.shields.io/badge/Author-Leo.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/CrearBot/Panda-BotV3"><img title="Creador" src="https://img.shields.io/badge/Author-Leo.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 
